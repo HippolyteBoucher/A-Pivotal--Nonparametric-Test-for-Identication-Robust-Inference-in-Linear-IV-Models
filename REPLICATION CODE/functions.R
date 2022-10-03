@@ -474,7 +474,7 @@ plot_pval<-function(pval,gridbeta0,nplots,alpha,pow_curv=T,cutoff){
       scale_linetype_manual(name="Average p-value built from",labels=labgg,values=lgg)+
       scale_size_manual(name="Average p-value built from",labels=labgg,values=sgg)+
       geom_hline(yintercept=alpha)+coord_cartesian(xlim = c(-1.5,1.5), ylim = c(-0.05,0.6), expand = FALSE)+
-      annotate("text",x=1,y=cutoff,label="10% cutoff")+
+      annotate("text",x=1,y=cutoff,label=paste(cutoff,"cutoff")+
       facet_grid(rows=vars(np))
   }
   
