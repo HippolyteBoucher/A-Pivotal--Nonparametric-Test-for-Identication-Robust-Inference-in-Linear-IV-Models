@@ -1,4 +1,4 @@
-# A Pivotal Nonparametric Test for Identication Robust Inference in Linear IV Models
+# A Pivotal Nonparametric Test for Identication-Robust Inference in Linear IV Models
 
 
 This repository contains the latest version of the working paper titled ''A Pivotal Nonparametric Test for Identication Robust Inference in Linear IV Models'' by Hippolyte Boucher. Replication files for both the simulations and application are at disposal. This working paper follows the CC-BY-NC-SA-4.0 license, it can be distributed for noncommercial purposes only, and only so long as attribution is given to the creator. Contact the writer at **Hippolyte.Boucher@outlook.com**.
