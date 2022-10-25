@@ -16,7 +16,7 @@ JEL Codes: C12, C13, C14
 
 Bertille Antoine and Pascal Lavergne (2019), ["Identification-Robust Nonparametric Inference in a Linear IV Model"][1], *Simon Fraser University Discussion Papers*
 
-Joshua D. Angrist and  Alan B. Krueger (1991), ["Does Compulsory School Attendance Affect Schooling and Earnings?"][2], *The Quarterly Journal of Economics*, 106 (4), 979–1014, https://doi.org/10.2307/2937954
+Joshua D. Angrist and  Alan B. Krueger (1991), ["Does Compulsory School Attendance Affect Schooling and Earnings?"][2], *The Quarterly Journal of Economics*, 106 (4), 979–1014
 
 [1]: https://ideas.repec.org/p/sfu/sfudps/dp19-02.html
 [2]: https://www.jstor.org/stable/2937954
